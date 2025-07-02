@@ -1,0 +1,12 @@
+{
+  "name": "make-a-task-uz4qz5",
+  "version": "1.0.0",
+  "description": "Generated project for make-a-task-uz4qz5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
